@@ -1,0 +1,488 @@
+V=aeiouöüäâêîøyáéíóú
+C=pbtdkgfvszhmnñwljrʃʒɔżţɗɽʞʔβδγń
+Q=pbtdkgfvszhwljrʃʒɔżţɗɽʞʔń
+F=ie
+B=oua
+Ö=öüä
+S=ptks
+Z=bdgz
+Θ=βδγ
+X=ptkbdg
+J=ʃʒţɗ
+Z=szkg
+L=lwj
+P=ɔżjñ
+N=nmñń
+W=pbmfvw
+G=gk
+Ψ=ɔżñβδγ
+Σ=ʃʒnfdg
+M=pbtdkgfvszhmnñwljrʃʒɔżţɗɽʞʔβδγaeiouáéíóú
+ы=lwjg
+U=pbtdkgfvszhmnñwjrʃʒɔżţɗɽʞʔβδγaeiouáéíóú
+
+sh|ʃ
+zh|ʒ
+sc|ɔ
+zc|ż
+tc|ţ
+dc|ɗ
+rh|ɽ
+bh|β
+dh|δ
+gh|γ
+
+-u//_#
+ng/ń/_
+nk/ń/_
+gn/ń/_
+kn/ń/_
+hu/f/_V
+ch/kj/_
+u//_-u
+y/j/_
+Z//V_V
+w/g/V_V
+V/Vh/L_#
+S/Z/V_V
+C//_²
+V//_²
+V/V²/_lC/_l#
+l//V_C/_#
+V//_²²
+J/Z/_#
+X//N_
+-u/-u-n/_#
+-u//jV_
+-u//wV_
+-u//gV_
+-//_
+F/F²/Z_#
+F/j/Z_/_C
+jV/kj/_V
+gV/kj/_V
+aa/a/_
+ae/ä/_
+ai/e/_
+ao/o/_
+au/o/_
+ea/e/_
+ee/e/_
+ei/i/_
+eo/ö/_
+eu/ö/_
+ia/e/_
+ie/e/_
+ii/i/_
+io/ö/_
+iu/ü/_
+oa/o/_
+oe/ö/_
+oi/ü/_
+oo/o/_
+ou/o/_
+ua/o/_
+ue/ü/_
+ui/ü/_
+uo/o/_
+uu/u/_
+mn/m/_
+nm/n/_
+nñ/n/_
+ñn/n/_
+ñm/m/_
+mñ/m/_
+Z/Θ/_#
+L//C_#
+W//_w
+ks/x/_
+x/s/_G
+Ψ/Σ/_
+j/zh/_/C_
+zh/j/#_
+j/j/C_
+ţ/ch/_
+ɗ/zh/_
+QN/\\/_
+ml/l/_
+nl/l/_
+ln/l/_
+lm/l/_
+zh/gj/_
+sh/sj/_
+tc/kj/_
+w/j/C_
+h//_#
+B/Ö/_CF
+Cl/\\/_
+l/el/#_C
+sj/s
+zj/s
+cj/s
+Z/S/_#
+j/_#
+ä/æ/_
+ö/ø/_
+ü/y/_
+rh/r7_
+ɽ/r7_
+gj/j/_#
+h//V_V
+l//V_V
+gj//V_V
+æV/â/_
+øV/å/_
+yV/î/_
+Væ/â/_
+Vø/å/_
+Vy/î/_
+æ/â/BC(C)_
+ø/ê/BC(C)_
+y/î/BC(C)_
+h//_C
+g/w/V_V
+X/X²/X_
+X//_X²
+a/á/_C(C)e
+e/é/_C(C)e
+i/í/_C(C)e
+o/ó/_C(C)e
+u/ú/_C(C)e
+V/ê/#(C)VC(C)_M
+ê//V_
+ê//_V
+á/a/_
+é/e/_
+í/i/_
+ó/o/_
+ú/u/_
+j//C_#
+ji/i/_/C_
+wo/o/_/C_
+je/e/_/C_
+wu/u/_/C_
+å/ê/_
+nj/ñ/_
+w//_ö
+w//_ü
+w//_î
+w//_ê
+r/l/rV_
+l/r/lV_
+p/ç/_i
+b/ĵ/_i
+t/c/_i
+d/ĝ/_i
+k/ć/_i
+g/ģ/_i
+s/ś/_i
+z/ģ/_i
+pj/ç/_
+bj/ĵ/_
+tj/c/_
+dj/ĝ/_
+kj/ć/_
+gj/ģ/_
+sj/ś/_
+zj/ģ/_
+kk/x/_
+tt/t'/_
+pp/p'/_
+ø/ö/_
+y/ü/_
+V/Vh/_V
+wj/ɥ/_
+jw/ɥ/_
+ç/x/_
+c/c/_
+ĵ/q/_
+ĝ/q/_
+ć/c/_
+ś/x/_
+ģ/q/_
+ê/é/_
+î/í/_
+ö/ó/_
+ü/ú/_
+â/á/_
+æ/á/_
+ɥ/wij/_
+h//_
+ñ/n/_
+ń/n/_
+s/j/_#/C_
+t/j/_#/C_
+i/j/_V
+i/j/V_
+u/w/_V
+u/w/V_
+í/j/_V
+í/j/V_
+ú/w/_V
+ú/w/V_
+e/j/_V
+e/j/V_
+o/w/_V
+o/w/V_
+é/j/_V
+é/j/V_
+ó/w/_V
+ó/w/V_
+U//_²
+gj/q/_
+fj/x/_
+tj/c/_
+kj/c/_
+vj/q/_
+dj/q/_
+ji/e/_
+'//_
+rh/r/_
+xr/sr/_
+sr/r/_#
+ɦ/h/_
+
+
+
+
+
+
+‣Thanks to Mark Rosenfelder.
+
+won   ‣  (me)
+nin   ‣  (you - sing)
+
+dan   ‣  (they-she-he)
+besc   ‣  (section)
+
+woni   ‣  (we - incl)
+wora   ‣  (we - uninc)
+nira   ‣  (you - plur)
+dara   ‣  (they)
+
+pan   ‣  (person)
+
+nans   ‣  (0)
+ban   ‣  (1)
+terh   ‣  (2)
+tjan   ‣  (3)
+kot   ‣  (4)
+sans   ‣  (5)
+teban   ‣  (6)
+teterh   ‣  (7)
+tetjan   ‣  (8)
+tekot   ‣  (9)
+tesans   ‣  (10)
+tcandesans   ‣  (100)
+
+
+‣💮 adjectives:
+
+zcinia   ‣  (good)
+dcaina   ‣  (bad)
+naibu   ‣  (new)
+bun   ‣  (old)
+naida   ‣  (warm)
+anafe   ‣  (cold)
+fupi   ‣  (dry)
+vobe   ‣  (wet)
+kiki   ‣  (sharp)
+sozca   ‣  (dull)
+korka   ‣  (near)
+lius   ‣  (far)
+mja   ‣  (big)
+lis   ‣  (small)
+mjafi   ‣  (long)
+lisfi   ‣  (short)
+mjake   ‣  (wide)
+liske   ‣  (narrow)
+mjazhu   ‣  (thick)
+liszhu   ‣  (thin)
+mjadan   ‣  (fat)
+panes   ‣  (heavy)
+sker   ‣  (left)
+dest   ‣  (right)
+shu   ‣  (few)
+tuwo   ‣  (many)
+dokidos   ‣  (some)
+sembo   ‣  (all)
+kinne   ‣  (dirty)
+kaña   ‣  (clean)
+jaja   ‣  (right  ‣  (correct))
+ikes   ‣  (rotten)
+fjam   ‣  (smooth)
+pallesmi   ‣  (straight)
+hek   ‣  (other)
+
+
+‣💮 nouns:
+
+nozh   ‣  (place)
+sot   ‣  (substance)
+krev   ‣  (earth)
+slias   ‣  (water)
+koli   ‣  (ice)
+isci   ‣  (stone)
+huoh   ‣  (fire)
+huoadotsot   ‣  (ashes)
+huoinssot   ‣  (smoke)
+mortis   ‣  (dust)
+pikros   ‣  (salt)
+krevmortis   ‣  (sand)
+rheba   ‣  (time)
+nitc   ‣  (day)
+niznitc  ‣  (daily life)
+noer   ‣  (night)
+anai   ‣  (year)
+alazhawu   ‣  (weather)
+ameju   ‣  (rain)
+ajuki   ‣  (snow)
+inegumo   ‣  (cloud)
+mjazhuinegumo   ‣  (fog)
+mos   ‣  (wind)
+abil   ‣  (sky)
+zun   ‣  (sun)
+mina   ‣  (moon)
+bosh   ‣  (star)
+jin   ‣  (mountain)
+baya   ‣  (woods)
+laka   ‣  (lake)
+annakru   ‣  (river)
+mjalaka   ‣  (sea)
+mit   ‣  (road)
+kalda   ‣  (body)
+kappa   ‣  (head)
+nus   ‣  (neck)
+senk   ‣  (back)
+adotoma   ‣  (belly)
+tega   ‣  (hand)
+lutan  ‣  (arm)
+pas   ‣  (leg)
+pastega   ‣  (foot)
+kara   ‣  (skin)
+otidi   ‣  (ear)
+ogot   ‣  (eye)
+game   ‣  (hair)
+oma   ‣  (mouth)
+namña   ‣  (nose)
+blas   ‣  (tongue)
+dend   ‣  (tooth)
+koko   ‣  (blood)
+houne   ‣  (bone)
+insadotoma   ‣  (guts)
+pila   ‣  (heart)
+koko   ‣  (liver)
+karna   ‣  (meat)
+dobos   ‣  (animal)
+tol   ‣  (bird)
+sagna   ‣  (fish)
+krins   ‣  (tail)
+ilovo   ‣  (egg)
+tolkrins   ‣  (feather)
+tollutan   ‣  (wing)
+neri   ‣  (plant)
+mjaneri   ‣  (tree)
+fawarh   ‣  (flower)
+kili   ‣  (fruit)
+piya   ‣  (grass)
+osa   ‣  (leaf)
+mudap   ‣  (bark)
+shol   ‣  (seed)
+palles   ‣  (stick)
+pallut   ‣  (root)
+pan   ‣  (person)
+nwah   ‣  (teenager)
+nu   ‣  (child)
+dcainapes   ‣  (father-mother-parent)
+geske   ‣  (family)
+amiripes   ‣  (romantic partner)
+amiri   ‣  (love)
+ashiri   ‣  (fear)
+nair   ‣  (word)
+pan-nair   ‣  (name)
+curt   ‣  (rope)
+maen   ‣  (before)
+adot   ‣  (after)
+ins  ‣  (during, inside)
+
+‣💮 verbs
+
+il-u   ‣  (exist)
+des-u   ‣  (be)
+jor-u   ‣  (be more X than Y)
+der-u   ‣  (be less X than Y)
+akta-u   ‣  (live)
+shin-u   ‣  (die)
+aktel-u   ‣  (kill)
+janam-u   ‣  (sleep)
+mobir-u   ‣  (move)
+tkama-u   ‣  (come)
+ark-u   ‣  (walk)
+bors-u   ‣  (float, fly)
+plazc-u   ‣  (swim)
+varm-u   ‣  (turn)
+pono-u   ‣  (place  ‣  (x in y))
+djos-u   ‣  (stand)
+zhash-u   ‣  (sit)
+vras-u   ‣  (lie down)
+chitt-u   ‣  (fall)
+ñemn-u   ‣  (eat)
+nomn-u   ‣  (drink)
+vidarit-u   ‣  (bite)
+chij-u   ‣  (blow)
+lishij-u   ‣  (breathe)
+inshij-u   ‣  (suck)
+mjachij-u   ‣  (vomit)
+mir-u   ‣  (see)
+otid-u   ‣  (hear)
+namñ-u   ‣  (smell)
+janat-u   ‣  (know)
+omo-u   ‣  (think)
+miser-u   ‣  (acts)
+om-u   ‣  (say)
+usea-u   ‣  (sing)
+bara-u   ‣  (laugh)
+bantehr-u   ‣  (count)
+juw-u   ‣  (play)
+hlat-u   ‣  (hunt)
+nitt-u   ‣  (sew)
+lans-u   ‣  (throw)
+vass-u   ‣  (wash)
+kitar-u   ‣  (wipe)
+mader-u   ‣  (fight)
+tekk-u   ‣  (hit)
+jumane-u  ‣  (give)
+jamino-u  ‣  (recieve)
+nadairati-u   ‣  (respect)
+amiri-u   ‣  (love)
+jotcen-u  ‣  (save (from))
+
+‣💮 expressions
+
+
+hitowjatton  ‣  (hello)
+pamblas  ‣  (democracy)
+
+isciom-u   ‣  write
+guk   ‣  south
+den   ‣  north
+
+fle   ‣  3rd p. pronoun
+‣interrogatives
+ɦen   ‣  what
+ɦempan   ‣  who
+ɦenrhe   ‣  when
+ɦennozh   ‣  where
+koesiu   ‣  (cause)
+zakeleau   ‣  (be boring)
+slende   ‣  skirt
+hantaudaieam   ‣  a lot
+
+‣places
+gukiss   ‣  africa
+deniss   ‣  northamerica + north pole
+lishijiss   ‣  eurasia + oceania + s.p.
+mjafiiss   ‣  s.am
+naiss   ‣  nej
+
+
