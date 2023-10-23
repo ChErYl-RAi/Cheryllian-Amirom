@@ -73,6 +73,8 @@ amiri
 
 love, friendship, to love, lovey
 
-ro-da amiri se mja, re ne vena ban pan-en muretlox
-you-of love if big, then not only one person-to go-can-simple
+| ro-da | amiri | se | mja, | re | ne | vena | ban | pan-en | muretlox |
+|---|---|---|---|---|---|---|---|---|---|
+| you-of | love | if | big, | then | not | only | one | person-to | go-can-simple |
+
 your love is so big, that it can't just go to one person
