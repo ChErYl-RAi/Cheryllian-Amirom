@@ -46,6 +46,24 @@ these are:
 - -ka → cause
 - -tsa → for (the benefit of)
 - -sa → like (sth)
+- -jak → property of (sb)
+- suf- → vocative
+
+## part 2: verbs!
+
+verbs also have affixes, and again, from 0 to any number you want
+
+these are:
+- ot- → future
+- wen- → past
+- -lox → simple aspect
+- -(i/j)m → volitive form
+- -(e)t → potential form
+- suf- → imperative (as in "DO X!")
+- -suf → imperative (as in "i must do x")
+- -mas → causative, help form
+
+
 
 # dictionary:
 
