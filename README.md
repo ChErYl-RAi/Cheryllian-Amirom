@@ -32,6 +32,12 @@ here are some sound charts!:
 | mid | e /e̞/ |  | o /o̞/ |
 | near-open |  | a /ɐ/ |  |
 
+# syntax
+
+the word order is free, but if the direct object goes after the nominative, it is not marked.
+
+adjectives/adverbs go before their corresponding nouns/verbs
+
 # affixes
 
 ## part 1: nouns!
