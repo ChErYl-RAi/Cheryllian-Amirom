@@ -1,7 +1,33 @@
 # Cheryllian-branch Amirum
 
-the original-ish!
+# Hello! Hidwejatan!
 
-the grammar resides in different md files.
+this is my language. it's made to showcase my feelings and personality. this means inside, you'll find:
+- poorly made systems
+- bad jokes
+- and words for different types of gender dysphoria-infused meltdowns!
 
-make your own branches!
+you'll learn how to make sentences such as "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
+
+*but why is Amirum the 'language of love'? love is for everyone, but your worldview is only yours!* - to this made-up, yet not false claim i respond: this is just *"Cheriljak Amirum"*, you are encouraged to make your own dialect, or sibling language!
+
+# Sounds
+
+here are some sound charts!:
+
+|  | bilabial | dentolabial | alveolar | post-alv | palatal | velar | uvular | glottal |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| nasal | m |  | n |  |  |  |  |  |
+| voiceless aspirated stop | p |  | t | c (affricate) |  | k |  |  |
+| voiced stop | b |  | d | q (affricate) |  | g |  |  |
+| voiceless fricative |  | f | s | x |  | k (sometimes) | k (sometimes) | h |
+| voiced fricative |  | v | z | q (sometimes) | j (when touching i) |  |  |  |
+| approximant | w |  |  | r (touching other post-alvs) | j | w |  |  |
+| lateral approximant |  |  | l |  |  |  |  |  |
+| tap/trill |  |  | r |  |  |  | r (dialectal) |  |
+
+|  | front | central | back |
+|---|---|---|---|
+| near-close | i /ɪ/ |  | u /ʊ/ |
+| mid | e /e̞/ |  | o /o̞/ |
+| near-open |  | a /ɐ/ |  |
