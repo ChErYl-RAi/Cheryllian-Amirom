@@ -27,7 +27,34 @@ here are some sound charts!:
 | tap/trill |  |  | r |  |  |  | r (dialectal) |  |
 
 |  | front | central | back |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | near-close | i /ɪ/ |  | u /ʊ/ |
 | mid | e /e̞/ |  | o /o̞/ |
 | near-open |  | a /ɐ/ |  |
+
+# affixes
+
+## part 1: nouns!
+
+nouns have affixes, from 0 to any number you want
+
+these are:
+- -(e)n → locative, indirect object, allative
+- -(e)t → direct object
+- -d'insen → inessive, illative
+- -d'oten → ablative, elative
+- -ka → cause
+- -tsa → for (the benefit of)
+- -sa → like (sth)
+
+# dictionary:
+
+dictionary entries are like this
+___
+amiri
+
+love, friendship, to love, lovey
+
+ro-da amiri se mja, re ne vena ban pan-en muretlox
+you-of love if big, then not only one person-to go-can-simple
+your love is so big, that it can't just go to one person
