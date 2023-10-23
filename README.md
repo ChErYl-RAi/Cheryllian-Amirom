@@ -70,6 +70,7 @@ these are:
 - -mas → causative, help form
 
 
+these can be combined. if you combine multible noun affixes, they're treated as the same noun with different cases. *"far"* means flower/bloom. translate this: "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
 
 # dictionary:
 
