@@ -69,9 +69,13 @@ these are:
 
 dictionary entries are like this
 ___
+word:
 amiri
 
+meanings:
 love, friendship, to love, lovey
+
+example + gloss:
 
 | ro-da | amiri | se | mja, | re | ne | vena | ban | pan-en | muretlox |
 |---|---|---|---|---|---|---|---|---|---|
