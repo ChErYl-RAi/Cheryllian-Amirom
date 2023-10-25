@@ -68,9 +68,11 @@ these are:
 - suf- → imperative (as in "DO X!")
 - -suf → imperative (as in "i must do x")
 - -mas → causative, help form
+- -bes → doer
+- -kom → reciever
 
 
-these can be combined. if you combine multible noun affixes, they're treated as the same noun with different cases. *"far"* means flower/bloom. translate this: "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
+these can be combined. if you combine multiple noun affixes, they're treated as the same noun with different cases. *"far"* means flower/bloom/transgender/transition. translate this: "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
 
 # dictionary:
 
@@ -81,6 +83,13 @@ amiri
 
 meanings:
 love, friendship, to love, lovey
+
+other meanings:
+trance, bewitchment
+
+phrases:
+mja-amiri: incarceration, HUGE(ly) crush (on)
+lis-amiri: feelings of slightly-more-than-friend-ship
 
 example + gloss:
 
