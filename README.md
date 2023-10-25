@@ -40,13 +40,15 @@ adjectives/adverbs go before their corresponding nouns/verbs
 
 # affixes
 
+ *note- if an affix/word ends in -j (noj, -bej, soj), it gets strengthened to -s if you put an affix after it (nos-en, amiri-bes-ej, sos-d'insen)
+
 ## part 1: nouns!
 
 nouns have affixes, from 0 to any number you want
 
 these are:
 - -(e)n → locative, indirect object, allative
-- -(e)t → direct object
+- -(e)j → direct object
 - -d'insen → inessive, illative
 - -d'oten → ablative, elative
 - -ka → cause
@@ -54,6 +56,8 @@ these are:
 - -sa → like (sth)
 - -jak → property of (sb)
 - suf- → vocative
+- mja- → big!!! :O
+- lij- → tiny 'v'
 
 ## part 2: verbs!
 
@@ -69,15 +73,20 @@ these are:
 - -suf → imperative (as in "i must do x")
 - -maj → causative, help form
 - -bej → doer
-- -kom → reciever
+- -(e)k → receiver
 
+## part 3: adjectives! (optional)
+- amfa- → very little
+- imfa- → kinda
+- umfa- → normally
+- onta- → a lot
+- emfa- → too much
 
 these can be combined. if you combine multiple noun affixes, they're treated as the same noun with different cases. *"far"* means flower/bloom/transgender/transition. translate this: "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
 
 # dictionary:
 
-dictionary entries are like this
-___
+----- love and feelings
 word:
 amiri
 
@@ -85,11 +94,12 @@ meanings:
 love, friendship, to love, lovey
 
 other meanings:
-trance, bewitchment
+trance, bewitchment, obsession
 
 phrases:
 mja-amiri: incarceration, HUGE(ly) crush (on)
 lis-amiri: feelings of slightly-more-than-friend-ship
+amiri-bej (sometimes amibej) - friend
 
 example + gloss:
 
@@ -98,3 +108,25 @@ example + gloss:
 | you-of | love | if | big, | then | not | only | one | person-to | go-can-simple |
 
 your love is so big, that it can't just go to one person
+-----
+word:
+irima
+
+meanings:
+hate, enemyship, to hate, judgamental
+
+other meanings:
+bad trip, evil spell, obsession
+
+phrases:
+mja-irima: to be an asshole, jerk, dick, overall bad person
+lis-irima: prejudice
+irima-bej - enemy
+
+example + gloss:
+
+| ne | irima-suf-lox | ro | hek | pan | elfe-da | amiri-ka, | irima-suf-lox | ro | hek | pan | elfe-da | irima-ka |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| not | hate-should-normal | you | other | person | him/her/them-of | love-because | hate-should-normal | you | other | person | him/her/them-of | hate-because |
+
+you shouldn't hate people because of their loves, you should hate people because of their hate
