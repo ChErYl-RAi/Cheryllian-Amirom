@@ -100,6 +100,7 @@ other meanings:
 trance, bewitchment, obsession
 
 phrases:
+
 mja-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
 
 lis-amiri: feelings of slightly-more-than-friend-ship
@@ -125,8 +126,11 @@ other meanings:
 bad trip, evil spell, obsession
 
 phrases:
+
 mja-irima: to be an asshole, jerk, dick, overall bad person
+
 lis-irima: prejudice
+
 irima-bej - enemy
 
 example + gloss:
