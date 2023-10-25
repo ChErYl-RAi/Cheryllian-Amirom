@@ -87,6 +87,7 @@ these can be combined. if you combine multiple noun affixes, they're treated as 
 # dictionary:
 
 ----- love and feelings
+
 word:
 amiri
 
