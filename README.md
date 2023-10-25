@@ -101,7 +101,9 @@ trance, bewitchment, obsession
 
 phrases:
 mja-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
+
 lis-amiri: feelings of slightly-more-than-friend-ship
+
 amiri-bej (sometimes amibej) - friend
 
 example + gloss:
