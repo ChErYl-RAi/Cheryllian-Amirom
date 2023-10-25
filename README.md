@@ -84,6 +84,8 @@ these are:
 
 these can be combined. if you combine multiple noun affixes, they're treated as the same noun with different cases. *"far"* means flower/bloom/transgender/transition. translate this: "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
 
+for the lazy, it's "a trans person was going to make a trans person transition on a flower, because of (their) transness from the trans person into the trans person"
+
 # dictionary:
 
 ----- love and feelings
