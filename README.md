@@ -64,11 +64,11 @@ these are:
 - wen- → past
 - -lox → simple aspect
 - -(i/j)m → volitive form
-- -(e)t → potential form
+- -(e)te → potential form
 - suf- → imperative (as in "DO X!")
 - -suf → imperative (as in "i must do x")
-- -mas → causative, help form
-- -bes → doer
+- -maj → causative, help form
+- -bej → doer
 - -kom → reciever
 
 
