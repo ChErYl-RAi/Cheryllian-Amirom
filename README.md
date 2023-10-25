@@ -108,6 +108,7 @@ example + gloss:
 | you-of | love | if | big, | then | not | only | one | person-to | go-can-simple |
 
 your love is so big, that it can't just go to one person
+
 -----
 word:
 irima
