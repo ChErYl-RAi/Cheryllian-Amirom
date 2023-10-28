@@ -86,6 +86,31 @@ these can be combined. if you combine multiple noun affixes, they're treated as 
 
 for the lazy, it's "a trans person was going to make a trans person transition on a flower, because of (their) transness from the trans person into the trans person"
 
+# gender
+
+![image](https://github.com/ChErYl-RAi/Cheryllian-Amirum/assets/70023834/fc70bb3a-3dd6-4690-a2c3-1044fa1a25ea)
+
+you can only refer to nouns or verbs gendered the same as you.
+
+luckily all words are every gender at once.
+
+### no, but seriously speaking
+
+gender is it's own suffix system. you can use them optionally. if you speak a gendered language, you can gender stuff as how they're gendered in your language, that is, if you wanna be looked at like a dumbass.
+
+here's a chart:
+
+| gender | best approximation (gender can get fuzzy) |
+|---|---|
+| boy | togre |
+| girl | frere |
+| nonbinary (your own gender, unrelated to the binary ones) | njowre |
+| agender | nansre |
+| pangender | canezansre |
+| somewhere in between | insare |
+| two-spirit | terere |
+| three-spirit | canre |
+
 # dictionary:
 
 ----- love and feelings
