@@ -100,16 +100,16 @@ gender is it's own suffix system. you can use them optionally. if you speak a ge
 
 here's a chart:
 
-| gender | best approximation (gender can get fuzzy) | prefix |
-|---|---|---|
-| boy | togre | tog- |
-| girl | frere | fre- |
-| nonbinary (your own gender, unrelated to the binary ones) | njowre | njow- |
-| agender | nansre | nans- |
-| pangender | canezansere | canezans- |
-| somewhere in between | insare | insa- |
-| two-spirit | terere | ter- |
-| three-spirit | canre | can- |
+| gender | best approximation (gender can get fuzzy) | prefix | etymology |
+|---|---|---|---|
+| boy | togre | tog- | (own root) |
+| girl | frere | fre- | (own root) |
+| nonbinary (your own gender, unrelated to the binary ones) | njowre | njow- | (own root) |
+| agender | nansre | nans- | (zero) |
+| pangender | canezansere | canezans- | (100/many) |
+| somewhere in between | insare | insa- | (inside) |
+| two-spirit | terere | ter- | (2) |
+| three-spirit | canre | can- | (3) |
 
 # dictionary:
 
