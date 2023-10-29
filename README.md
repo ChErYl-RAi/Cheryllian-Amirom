@@ -331,6 +331,68 @@ here's a chart:
 
 ## high detail dictionary (WORK IN PROGRESS)
 
+- ak ‣  weather
+
+meanings:
+weather, climate
+
+other meanings:
+mood, “the room”
+
+phrases:
+
+- - mia-ak: tenseness
+- - lis-ak: relaxation
+- - ak-bei - mediator
+
+- ameu ‣  rain
+
+meanings:
+rain
+
+other meanings:
+thing you like to watch but don’t really like being in the inside of.
+
+phrases:
+
+- - mia-ameu: downpour
+- - lis-ak: dripping, txirimiri
+
+- amiri ‣  love
+
+
+meanings:
+love, friendship, to love, lovey-dovey
+
+other meanings:
+trance, bewitchment, obsession
+
+phrases:
+
+mia-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
+
+lis-amiri: feelings of slightly-more-than-friend-ship
+
+amiri-bei (sometimes amibei) - friend
+
+
+- amibei ‣  romantic partner, friend
+
+meanings:
+friend, lover, romantic partner, make a friend
+
+other meanings:
+huggable
+
+- ane ‣  year
+
+meanings:
+year
+
+phrases:
+
+mia-ane: a long time
+
 (WORK IN PROGRESS, SORRY)
 
 # writing system
