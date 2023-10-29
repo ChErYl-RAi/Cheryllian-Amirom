@@ -174,7 +174,7 @@ here's a chart:
 - fuqi ‣  dry 
 - gam ‣  hair 
 - gest ‣  family 
-- guc ‣  liver 
+- guc ‣  liver
 - guk ‣ south
 - guuis ‣ africa
 - heman ‣ who
@@ -295,6 +295,7 @@ here's a chart:
 - qen ‣  8 
 - qen ‣  bad 
 - qenabei ‣  father-mother-parent 
+- qiem ‣  like
 - qoi ‣  stand 
 - ref ‣  time
 - ro ‣  you - sing 
