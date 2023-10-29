@@ -113,6 +113,224 @@ here's a chart:
 
 # dictionary:
 
+## low-detail dictionary
+
+ak ‣  weather 
+ameu ‣  rain 
+amiri ‣  love 
+amiri ‣  love 
+amiribei ‣  romantic partner 
+ane ‣  year 
+aneft ‣  cold 
+anekr ‣  river 
+anem ‣ a lot
+ark ‣  walk 
+atel ‣  kill 
+atf ‣  live 
+auj ‣  snow 
+axeri ‣  fear 
+baikre ‣  woods 
+ban ‣  1 
+baner ‣  count 
+barf ‣  laugh 
+bei ‣  section, part, instance of time 
+blas, blai ‣  dialect
+boi ‣  star 
+bors ‣  float, fly 
+bun ‣  old 
+can ‣  3 
+canezans ‣  100 
+cider ‣  wipe 
+cij ‣  blow 
+cij ‣  fall 
+cin ‣  dirty 
+cji ‣  fruit 
+cji ‣  sharp 
+curt ‣  rope 
+darf ‣  they 
+den ‣  tooth 
+den ‣ north
+denis ‣ northamerica + north pole
+der ‣  be less X than Y 
+dest ‣  right 
+doi ‣  animal 
+duoi ‣  some 
+ek ‣  other 
+el ‣  sky 
+elbei ‣  tongue 
+elfe ‣ 3rd p. pronoun
+elpei ‣  swim 
+elsei, slias, sliaj ‣  water
+elsent ‣ skirt
+enft ‣  they-she-he 
+fair ‣  flower, trans
+fiam ‣  smooth 
+fo ‣  fire 
+fotsei ‣  ashes 
+funsei ‣  smoke 
+fuqi ‣  dry 
+gam ‣  hair 
+gest ‣  family 
+guc ‣  liver 
+guk ‣ south
+guuis ‣ africa
+heman ‣ who
+hen ‣ what
+henoi ‣ where
+henrt ‣ when
+ia ‣  right ‣  correct  
+iai ‣  sit 
+iamin ‣  recieve 
+ianei ‣  know 
+ianem ‣  sleep 
+idouiiaton ‣  hello 
+iei ‣  rotten 
+il ‣  exist 
+in ‣  mountain 
+inef ‣  good 
+inem ‣  cloud 
+ineran
+ins ‣  during, inside 
+insedom ‣  guts 
+inxij ‣  suck 
+iocen ‣  save  from  
+ior ‣  be more X than Y 
+iovk ‣  egg 
+iumen ‣  give 
+iuw ‣  play 
+ixem ‣ write
+ixi ‣  stone 
+ja ‣  be 
+ju ‣  few 
+kadf ‣  body 
+kan ‣  clean 
+kanrai ‣  meat 
+kapf ‣  head 
+karf ‣  skin 
+ke ‣  ice 
+koi ‣  4 
+koq ‣  cause 
+korkf ‣  near 
+kox ‣  blood 
+kremvorcij ‣  sand 
+krev ‣  earth 
+krins ‣  tail 
+lai ‣  hunt 
+lans ‣  throw 
+laufe ‣  lake 
+lij ‣  small 
+lij ‣  thin 
+lisfi ‣  short 
+list ‣  narrow 
+lixei ‣  breathe 
+lixis ‣ eurasia + oceania + s.p.
+luden ‣  arm 
+lui ‣  far 
+man ‣  before 
+mar ‣  fight 
+mia ‣  big 
+miacij ‣  vomit 
+miafi ‣  long 
+miafis ‣ s.am
+miai ‣  thick 
+miakf ‣  sea 
+mian ‣  fat 
+mianeri ‣  tree 
+miat ‣  wide 
+mij ‣  road 
+min ‣  moon 
+mir ‣  see 
+mizer ‣  acts 
+mjinom ‣  fog 
+moi ‣  wind 
+mop ‣  bark 
+mortei ‣  dust 
+mur ‣  move 
+na ‣  me 
+nam ‣  nose 
+nam ‣  smell 
+nans ‣  0 
+ne ‣  new 
+nef ‣  warm 
+nem ‣  eat 
+ner ‣  word 
+nereqi ‣  respect 
+neri ‣  plant 
+nic ‣  day 
+nij ‣  sew 
+nirf ‣  you - plur 
+niznic ‣  daily life 
+noer ‣  dark
+noi ‣  place 
+nom ‣  drink 
+nor ‣  night 
+nu ‣  child 
+nui ‣  neck 
+nwak ‣  teenager 
+odei ‣  hear 
+odem ‣  belly 
+oi ‣  after 
+oi ‣  eye 
+om ‣  mouth 
+om ‣  say 
+omos ‣  think 
+on ‣  bone 
+oqi ‣  ear 
+orf ‣  we - uninc 
+ozf ‣  leaf 
+pai ‣  democracy 
+pai ‣  leg 
+palei ‣  stick 
+palemxi ‣  straight 
+pan ‣  person 
+pan ‣  person 
+panei ‣  heavy 
+paner ‣  name 
+pastef ‣  foot 
+pauj ‣  root 
+pon ‣  place ‣  x in y  
+qen ‣  bad 
+qenabei ‣  father-mother-parent 
+qoi ‣  stand 
+ref ‣  time
+ro ‣  you - sing 
+san ‣  fish 
+sans ‣  5 
+semk ‣  all 
+sen ‣  back 
+sker ‣  left 
+soi ‣  substance, stuff, thing
+soqf ‣  dull 
+qen ‣  8 
+der ‣  7 
+tef ‣  hand 
+tek ‣  hit 
+ten ‣  6 
+ter ‣  2 
+tiei ‣  9 
+tokrens ‣  feather 
+tol ‣  bird 
+toudan ‣  wing 
+tux ‣  many 
+uoni ‣  we - incl
+uzef ‣  sing 
+vamr ‣  turn 
+vas ‣  wash 
+verei ‣  bite 
+vobe ‣  wet 
+voi ‣  mist
+vrai ‣  lie down 
+xam ‣  come 
+xia ‣  grass 
+xia ‣  heart 
+xikrei ‣  salt 
+xin ‣  die 
+xol ‣  seed 
+zagie ‣  be boring 
+zun ‣  sun 
+
+## high detail dictionary
+
 ----- love and feelings
 
 word:
