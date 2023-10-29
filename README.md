@@ -371,11 +371,9 @@ trance, bewitchment, obsession
 
 phrases:
 
-mia-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
-
-lis-amiri: feelings of slightly-more-than-friend-ship
-
-amiri-bei (sometimes amibei) - friend
+  - mia-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
+  - lis-amiri: feelings of slightly-more-than-friend-ship
+  - amiri-bei (sometimes amibei) - friend
 
 ___
 - amibei ‣  romantic partner, friend
@@ -395,6 +393,32 @@ year
 phrases:
 
 mia-ane: a long time
+
+___
+- aneft ‣  cold 
+
+
+meanings:
+cold, winter, become cold
+
+other meanings:
+dead, painful
+
+phrases:
+
+  - mia-aneft: ice age
+  - lis-aneft: normal temperature
+  - aneft-bei  – freezer, fridge
+
+___
+- anekr ‣  river 
+
+
+meanings:
+river, flow
+
+other meanings:
+the circle of life
 
 ___
 
