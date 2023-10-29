@@ -181,7 +181,8 @@ here's a chart:
 - hen ‣ what
 - henoi ‣ where
 - henrt ‣ when
-- ia ‣  right ‣  correct  
+- ia ‣  be 
+- ia ‣  yes 
 - iai ‣  sit 
 - iamin ‣  recieve 
 - ianei ‣  know 
@@ -204,7 +205,6 @@ here's a chart:
 - iuw ‣  play 
 - ixem ‣ write
 - ixi ‣  stone 
-- ja ‣  be 
 - kadf ‣  body 
 - kan ‣  clean 
 - kanrai ‣  meat 
