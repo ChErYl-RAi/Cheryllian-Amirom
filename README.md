@@ -29,7 +29,7 @@ here are some sound charts!:
 |  | front | central | back |
 |:---:|:---:|:---:|:---:|
 | near-close | i /ɪ/ |  | u /ʊ/ |
-| mid | e /e̞/ | a and e when neutralized (/ə/) | o /o̞/ |
+| mid | e /e̞/ | a and e (when neutralized) (/ə/) | o /o̞/ |
 | near-open |  | a /ɐ/ |  |
 
 # syntax
