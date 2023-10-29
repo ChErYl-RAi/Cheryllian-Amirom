@@ -1,6 +1,6 @@
 # Cheryllian-branch Amirom
 
-# Hello! Hidwejatan!
+# Hello! Hidueiatan!
 
 this is my language. it's made to showcase my feelings and personality. this means inside, you'll find:
 - poorly made systems
@@ -9,7 +9,7 @@ this is my language. it's made to showcase my feelings and personality. this mea
 
 you'll learn how to make sentences such as "far far-ka-n-et-d'insen-d'oten wen-ot-far-mas-uf-et-im"
 
-*but why is Amirum the 'language of love'? love is for everyone, but your worldview is only yours!* - to this made-up, yet not false claim i respond: this is just *"Cheriljak Amirom"*, you are encouraged to make your own dialect, or sibling language!
+*but why is Amirum the 'language of love'? love is for everyone, but your worldview is only yours!* - to this made-up, yet not false claim i respond: this is just *"Cheriliak Amirom"*, you are encouraged to make your own dialect, or sibling language!
 
 # Sounds
 
@@ -40,7 +40,7 @@ adjectives/adverbs go before their corresponding nouns/verbs
 
 # affixes
 
- *note- if an affix/word ends in -j (noj, -bej, soj), it gets strengthened to -s if you put an affix after it (nos-en, amiri-bes-ej, sos-d'insen)
+ *note- if an affix/word ends in -i (noi, -bei, soi), it gets strengthened to -s if you put an affix after it (nos-en, amiri-bes-ej, sos-d'insen)
 
 ## part 1: nouns!
 
@@ -48,15 +48,15 @@ nouns have affixes, from 0 to any number you want
 
 these are:
 - -(e)n → locative, indirect object, allative
-- -(e)j → direct object
+- -(e)i → direct object
 - -d'insen → inessive, illative
 - -d'oten → ablative, elative
 - -ka → cause
 - -tsa → for (the benefit of)
 - -sa → like (sth)
-- -jak → property of (sb)
+- -iak → property of (sb)
 - suf- → vocative
-- mja- → big!!! :O
+- mia- → big!!! :O
 - lij- → tiny 'v'
 
 ## part 2: verbs!
@@ -71,8 +71,8 @@ these are:
 - -(e)te → potential form
 - suf- → imperative (as in "DO X!")
 - -suf → imperative (as in "i must do x")
-- -maj → causative, help form
-- -bej → doer
+- -mai → causative, help form
+- -bei → doer
 - -(e)k → receiver
 
 ## part 3: adjectives! (optional)
@@ -104,7 +104,7 @@ here's a chart:
 |---|---|---|---|
 | boy | togre | tog- | (own root) |
 | girl | frere | fre- | (own root) |
-| nonbinary (your own gender, unrelated to the binary ones) | njowre | njow- | (own root) |
+| nonbinary (your own gender, unrelated to the binary ones) | nioure | njou- | (own root) |
 | agender | nansre | nans- | (zero) |
 | pangender | canezansere | canezans- | (100/many) |
 | somewhere in between | insare | insa- | (inside) |
