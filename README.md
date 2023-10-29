@@ -19,9 +19,9 @@ here are some sound charts!:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | nasal | m |  | n |  |  |  |  |  |
 | voiceless aspirated stop | p |  | t | c (affricate) |  | k (sometimes) |  |  |
-| voiced stop | b |  | d | q (affricate) |  | g (sometimes) |  |  |
+| voiced stop | b |  | d | q (affricate) (sometimes) |  | g (sometimes) |  |  |
 | voiceless fricative |  | f | s | x |  | k  | k (sometimes) | h |
-| voiced fricative |  | v | z | q (sometimes) | j (when touching i) | g |  |  |
+| voiced fricative |  | v | z | q | j (when touching i) | g |  |  |
 | approximant | w |  |  | r (touching other post-alvs) | j (normally written i) | w |  |  |
 | lateral approximant |  |  | l |  |  |  |  |  |
 | tap/trill |  |  | r |  |  |  | r (dialectal) |  |
@@ -329,60 +329,9 @@ here's a chart:
 - zagie ‣  be boring 
 - zun ‣  sun
 
-## high detail dictionary
+## high detail dictionary (WORK IN PROGRESS)
 
------ love and feelings
-
-word:
-amiri
-
-meanings:
-love, friendship, to love, lovey
-
-other meanings:
-trance, bewitchment, obsession
-
-phrases:
-
-mja-amiri: (kinda massochistic) incarceration, HUGE(ly) crush (on)
-
-lis-amiri: feelings of slightly-more-than-friend-ship
-
-amiri-bej (sometimes amibej) - friend
-
-example + gloss:
-
-| ro-da | amiri | se | mja, | re | ne | vena | ban | pan-en | muretlox |
-|---|---|---|---|---|---|---|---|---|---|
-| you-of | love | if | big, | then | not | only | one | person-to | go-can-simple |
-
-your love is so big, that it can't just go to one person
-
------
-word:
-irima
-
-meanings:
-hate, enemyship, to hate, judgamental
-
-other meanings:
-bad trip, evil spell, obsession
-
-phrases:
-
-mja-irima: to be an asshole, jerk, dick, overall bad person
-
-lis-irima: prejudice
-
-irima-bej - enemy
-
-example + gloss:
-
-| ne | irima-suf-lox | ro | hek | pan | elfe-da | amiri-ka, | irima-suf-lox | ro | hek | pan | elfe-da | irima-ka |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| not | hate-should-normal | you | other | person | him/her/them-of | love-because | hate-should-normal | you | other | person | him/her/them-of | hate-because |
-
-you shouldn't hate people because of their loves, you should hate people because of their hate
+(WORK IN PROGRESS, SORRY)
 
 # anthropomorphized langsona (prolang)
 ![amirsona](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/6be49784-e733-43d6-bbc4-7187495d9258)
