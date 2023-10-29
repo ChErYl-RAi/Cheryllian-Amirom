@@ -341,10 +341,11 @@ mood, “the room”
 
 phrases:
 
-- - mia-ak: tenseness
-- - lis-ak: relaxation
-- - ak-bei - mediator
+  - mia-ak: tenseness
+  - lis-ak: relaxation
+  - ak-bei - mediator
 
+___
 - ameu ‣  rain
 
 meanings:
@@ -355,9 +356,10 @@ thing you like to watch but don’t really like being in the inside of.
 
 phrases:
 
-- - mia-ameu: downpour
-- - lis-ak: dripping, txirimiri
+  - mia-ameu: downpour
+  - lis-ak: dripping, txirimiri
 
+___
 - amiri ‣  love
 
 
@@ -375,7 +377,7 @@ lis-amiri: feelings of slightly-more-than-friend-ship
 
 amiri-bei (sometimes amibei) - friend
 
-
+___
 - amibei ‣  romantic partner, friend
 
 meanings:
@@ -384,6 +386,7 @@ friend, lover, romantic partner, make a friend
 other meanings:
 huggable
 
+___
 - ane ‣  year
 
 meanings:
@@ -392,6 +395,8 @@ year
 phrases:
 
 mia-ane: a long time
+
+___
 
 (WORK IN PROGRESS, SORRY)
 
