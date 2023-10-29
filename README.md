@@ -115,13 +115,6 @@ here's a chart:
 
 ## low-detail dictionary
 
-
-
-## high detail dictionary
-
------ love and feelings
-
-word:
 ak ‣  weather 
 
 ameu ‣  rain 
@@ -548,6 +541,13 @@ zagie ‣  be boring
 
 zun ‣  sun 
 
+
+## high detail dictionary
+
+----- love and feelings
+
+word:
+amiri
 
 meanings:
 love, friendship, to love, lovey
