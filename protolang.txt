@@ -1,5 +1,9 @@
+-i have edited the results a bit. also, the meanings are the protolang's.
+
 V=aeiouöüäâêîøyáéíóú
-C=pbtdkgfvszhmnñwljrʃʒɔżţɗɽʞʔβδγń
+J=aeouáéóú
+Ù=aeoiáéóí
+C=pbtdkgfvszhmnñwljrʃʒɔżţɗɽʞʔβδγńß
 Q=pbtdkgfvszhwljrʃʒɔżţɗɽʞʔń
 F=ie
 B=oua
@@ -33,6 +37,7 @@ dh|δ
 gh|γ
 
 -u//_#
+ss/ß/_#
 ng/ń/_
 nk/ń/_
 gn/ń/_
@@ -229,19 +234,22 @@ o/w/V_
 ó/w/_V
 ó/w/V_
 U//_²
-gj/q/_
-fj/x/_
-tj/c/_
-kj/c/_
-vj/q/_
-dj/q/_
-ji/e/_
 '//_
 rh/r/_
 xr/sr/_
 sr/r/_#
 ɦ/h/_
+ß/s/_
 
+j/i/_J
+j/i/J_
+w/u/_Ù
+w/u/Ù_
+á/a/_
+é/e/_
+í/i/_
+ó/o/_
+ú/u/_
 
 
 
@@ -457,11 +465,12 @@ nadairati-u   ‣  (respect)
 amiri-u   ‣  (love)
 jotcen-u  ‣  (save (from))
 
-‣💮 expressions
-
+zciniareuaen
 
 hitowjatton  ‣  (hello)
 pamblas  ‣  (democracy)
+
+
 
 isciom-u   ‣  write
 guk   ‣  south
@@ -485,4 +494,8 @@ lishijiss   ‣  eurasia + oceania + s.p.
 mjafiiss   ‣  s.am
 naiss   ‣  nej
 
-
+jotcennu
+osaaditiss
+sliasiss
+insiss
+atafiss
