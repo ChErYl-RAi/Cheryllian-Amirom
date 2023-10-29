@@ -82,7 +82,7 @@ these are:
 - onta- → a lot
 - emfa- → too much
 
-these can be combined. if you combine multiple noun affixes, they're treated as the same noun with different cases. *"fair"* means flower/bloom/transgender/transition. translate this: "onta-fair fair fair-ka-n-es-d'insen-d'oten man-ot-fair-mas-uf-es-im"
+these can be combined. if you combine multiple noun affixes, they're treated as the same noun with different cases (ofc this also means that 2 nouns in the same case are "\[X] and \[Y]"). *"fair"* means flower/bloom/transgender/transition. translate this: "onta-fair fair fair-ka-n-es-d'insen-d'oten man-ot-fair-mas-uf-es-im"
 
 for the lazy, it's "a really transgender trans person was going to make a trans person transition on a flower, because of (their) transness from the trans person into the trans person"
 
