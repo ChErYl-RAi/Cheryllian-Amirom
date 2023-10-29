@@ -596,3 +596,6 @@ example + gloss:
 | not | hate-should-normal | you | other | person | him/her/them-of | love-because | hate-should-normal | you | other | person | him/her/them-of | hate-because |
 
 you shouldn't hate people because of their loves, you should hate people because of their hate
+
+# anthropomorphized persona (prolang)
+![amirsona](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/6be49784-e733-43d6-bbc4-7187495d9258)
