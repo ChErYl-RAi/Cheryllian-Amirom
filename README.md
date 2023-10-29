@@ -216,7 +216,7 @@ here's a chart:
 - kremvorcij ‣  sand 
 - krev ‣  earth 
 - krins ‣  tail 
-- lai ‣  hunt 
+- lai ‣  fuck 
 - lans ‣  throw 
 - laufe ‣  lake 
 - lij ‣  small 
