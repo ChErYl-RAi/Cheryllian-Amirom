@@ -384,5 +384,6 @@ example + gloss:
 
 you shouldn't hate people because of their loves, you should hate people because of their hate
 
-# anthropomorphized persona (prolang)
+# anthropomorphized langsona (prolang)
 ![amirsona](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/6be49784-e733-43d6-bbc4-7187495d9258)
+*(proudly made in ms pain)*
