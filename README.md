@@ -333,6 +333,12 @@ here's a chart:
 
 (WORK IN PROGRESS, SORRY)
 
+# writing system
+
+![amiromda ixem](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/7530cd4f-74c4-48e5-96fe-7387ac90ffec)
+![Manuscrito_2023-10-29_164240 (2)](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/2a2ae36f-aece-48df-a70e-cbd85e6ba418)
+![2023-10-29_164258 (3)](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/1d3cd311-0b88-425d-9871-d38e2b786935)
+
 # anthropomorphized langsona (prolang)
 ![amirsona](https://github.com/ChErYl-RAi/Cheryllian-Amirom/assets/70023834/6be49784-e733-43d6-bbc4-7187495d9258)
 *(proudly made in ms pain)*
