@@ -21,7 +21,7 @@ here are some sound charts!:
 | voiceless aspirated stop | p |  | t | c (affricate) |  | k (sometimes) |  |  |
 | voiced stop | b |  | d | q (affricate) (sometimes) |  | g (sometimes) |  |  |
 | voiceless fricative |  | f | s | x |  | k  | k (sometimes) | h |
-| voiced (raised) fricative |  | v | z | q | j (when touching i) | g |  |  |
+| voiced (raised) fricative | w (when touching w) | v | z | q | j (when touching i) | g, w (when touching w) |  |  |
 | approximant | w |  |  | r (touching other post-alvs) | j (normally written i) | w |  |  |
 | lateral approximant |  |  | l |  |  |  |  |  |
 | tap/trill |  |  | r |  |  |  | r (dialectal) |  |
