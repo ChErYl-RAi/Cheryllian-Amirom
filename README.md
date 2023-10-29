@@ -253,7 +253,7 @@ here's a chart:
 - nam ‣  nose 
 - nans ‣  0 
 - nav ‣  smell 
-- ne ‣  new 
+- neu ‣  new 
 - nef ‣  warm 
 - nem ‣  eat 
 - ner ‣  word 
