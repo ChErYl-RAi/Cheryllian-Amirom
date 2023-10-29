@@ -38,6 +38,8 @@ the word order is free, but if the direct object goes after the nominative, it i
 
 adjectives/adverbs go before their corresponding nouns/verbs
 
+words can be combined to make new ones, separated with hyphens (like affixes)
+
 # affixes
 
  *note- if an affix/word ends in -i (noi, -bei, soi), it gets strengthened to -s if you put an affix after it (nos-en, amiri-bes-ej, sos-d'insen)
