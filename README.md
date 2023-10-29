@@ -65,7 +65,7 @@ verbs also have affixes, and again, from 0 to any number you want
 
 these are:
 - ot- → future
-- wen- → past
+- man- → past
 - -lox → simple aspect
 - -(i/j)m → volitive form
 - -(e)te → potential form
