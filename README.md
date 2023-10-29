@@ -277,7 +277,7 @@ here's a chart:
 - oi ‣  eye 
 - om ‣  mouth 
 - om ‣  say 
-- omos ‣  think 
+- omos ‣  think, feel 
 - on ‣  bone 
 - oqi ‣  ear 
 - orf ‣  we - uninc 
