@@ -18,10 +18,10 @@ here are some sound charts!:
 |  | bilabial | dentolabial | alveolar | post-alv | palatal | velar | uvular | glottal |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | nasal | m |  | n |  |  |  |  |  |
-| voiceless aspirated stop | p |  | t | c (affricate) |  | k |  |  |
-| voiced stop | b |  | d | q (affricate) |  | g |  |  |
-| voiceless fricative |  | f | s | x |  | k (sometimes) | k (sometimes) | h |
-| voiced fricative |  | v | z | q (sometimes) | j (when touching i) |  |  |  |
+| voiceless aspirated stop | p |  | t | c (affricate) |  | k (sometimes) |  |  |
+| voiced stop | b |  | d | q (affricate) |  | g (sometimes) |  |  |
+| voiceless fricative |  | f | s | x |  | k  | k (sometimes) | h |
+| voiced fricative |  | v | z | q (sometimes) | j (when touching i) (normally written i) | g |  |  |
 | approximant | w |  |  | r (touching other post-alvs) | j | w |  |  |
 | lateral approximant |  |  | l |  |  |  |  |  |
 | tap/trill |  |  | r |  |  |  | r (dialectal) |  |
@@ -144,7 +144,7 @@ cider ‣  wipe
 cij ‣  blow 
 cij ‣  fall 
 cin ‣  dirty 
-cji ‣  fruit 
+cjil ‣  fruit 
 cji ‣  sharp 
 curt ‣  rope 
 darf ‣  they 
