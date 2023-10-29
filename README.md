@@ -194,7 +194,7 @@ here's a chart:
 - inef ‣  good 
 - inem ‣  cloud 
 - ineran
-- ins ‣  during, inside 
+- ins ‣  during, inside, go in, close (like a flower closing its petals)
 - insedom ‣  guts 
 - inxij ‣  suck 
 - iocen ‣  save  from  
