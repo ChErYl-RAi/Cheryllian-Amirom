@@ -76,6 +76,7 @@ these are:
 - -mai → causative, help form
 - -bei → doer
 - -(e)k → receiver
+- -ins → start to
 
 ## part 3: adjectives! (optional)
 - amfa- → very little
@@ -194,7 +195,7 @@ here's a chart:
 - inef ‣  good 
 - inem ‣  cloud 
 - ineran
-- ins ‣  during, inside, go in, close (like a flower closing its petals)
+- ins ‣  during, inside, go in, close (like a flower closing its petals), open, start
 - insedom ‣  guts 
 - inxij ‣  suck 
 - iocen ‣  save  from  
